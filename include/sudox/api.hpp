@@ -1,7 +1,7 @@
 /*
 C++ template repository
 Version 1.0.0
-https://github.com/sudo-x/cpp-template
+https://github.com/sudo-x/http-cpp
 
 MIT License
 
@@ -30,7 +30,7 @@ SOFTWARE.
 
 
 /**
-    @brief namespace for Sudo.X LLC - cpp-template
+    @brief namespace for Sudo.X LLC - http-cpp
     @see https://github.com/sudo-x
     @since version 1.0.0
 */
